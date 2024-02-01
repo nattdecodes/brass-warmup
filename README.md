@@ -22,7 +22,8 @@ A simple Python warm-up script
 
 
 ## ToDo
-- [ ] uhhh idk
+- [ ] Interval warmup
+- [ ] Rhythm warmup
 
 ## Contributing
 Contributions to this project are welcome. Please open an issue or submit a pull request for any improvements or bug fixes.
